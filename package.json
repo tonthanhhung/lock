@@ -3,7 +3,7 @@
   "version": "0.1.0-rc7",
   "repository": "tonthanhhung/lock",
   "license": "MIT",
-  "main": "dist/lock.cjs.js",R
+  "main": "dist/lock.cjs.js",
   "module": "dist/lock.esm.js",
   "browser": "dist/lock.min.js",
   "dependencies": {},
